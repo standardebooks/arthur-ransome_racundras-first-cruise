@@ -31,6 +31,13 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Racundra’s First Cruise</dc:title>
 		<meta property="file-as" refines="#title">Racundra’s First Cruise</meta>
+		<meta property="title-type" refines="#title">main</meta>
+		<dc:title id="subtitle">Sailing in the Eastern Baltic</dc:title>
+		<meta property="file-as" refines="#subtitle">Sailing in the Eastern Baltic</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<dc:title id="fulltitle">Racundra’s First Cruise: Sailing in the Eastern Baltic</dc:title>
+		<meta property="file-as" refines="#fulltitle">Racundra’s First Cruise</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Baltic Sea</dc:subject>
 		<dc:subject id="subject-2">Europe, Northern--Description and travel</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
