@@ -63,12 +63,16 @@
 		<meta property="schema:alternateName" refines="#author">Arthur Michell Ransome</meta>
 		<link href="https://en.wikipedia.org/wiki/Arthur_Ransome" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n80009839.html" refines="#author" rel="schema:sameAs"/>
+		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">dto</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">pht</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">Georges Seurat</dc:contributor>
 		<meta property="file-as" refines="#artist">Seurat, Georges</meta>
 		<meta property="schema:alternateName" refines="#artist">Georges Pierre Seurat</meta>
 		<link href="https://en.wikipedia.org/wiki/Georges_Seurat" refines="#artist" rel="schema:sameAs"/>
-		<link href="https://id.loc.gov/authorities/n79129009" refines="#artist" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n79129009.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="sponsor">Ben and Ann Evans</dc:contributor>
 		<meta property="file-as" refines="#sponsor">Ben and Ann Evans</meta>
@@ -84,6 +88,7 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">wat</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
