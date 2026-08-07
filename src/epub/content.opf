@@ -57,10 +57,11 @@
 		<link href="https://en.wikipedia.org/wiki/Arthur_Ransome" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n80009839.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST_NAME</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<link href="COVER_ARTIST_WIKI_URL" refines="#artist" rel="schema:sameAs"/>
-		<link href="COVER_ARTIST_NACOAF_URI" refines="#artist" rel="schema:sameAs"/>
+		<dc:contributor id="artist">Georges Seurat</dc:contributor>
+		<meta property="file-as" refines="#artist">Seurat, Georges</meta>
+		<meta property="schema:alternateName" refines="#artist">Georges Pierre Seurat</meta>
+		<link href="https://en.wikipedia.org/wiki/Georges_Seurat" refines="#artist" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/n79129009" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="sponsor">Ben and Ann Evans</dc:contributor>
 		<meta property="file-as" refines="#sponsor">Ben and Ann Evans</meta>
