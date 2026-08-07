@@ -20,10 +20,6 @@ figcaption{
 	text-align: center;
 }
 
-figcaption p + p{
-	text-indent: 0;
-}
-
 /* Centered dedications */
 section[epub|type~="dedication"]{
 	text-align: center;
