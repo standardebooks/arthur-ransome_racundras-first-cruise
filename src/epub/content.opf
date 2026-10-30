@@ -77,7 +77,7 @@
 		<link href="https://id.loc.gov/authorities/names/n79129009.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="sponsor">Ben and Anna Evans</dc:contributor>
-		<meta property="file-as" refines="#sponsor">Ben and Anna Evans</meta>
+		<meta property="file-as" refines="#sponsor">Evans, Ben and Anna</meta>
 		<link href="https://www.kittylyst.com/" refines="#sponsor" rel="schema:url"/>
 		<meta property="role" refines="#sponsor" scheme="marc:relators">spn</meta>
 		<dc:contributor id="producer-1">Alex Cabal</dc:contributor>
